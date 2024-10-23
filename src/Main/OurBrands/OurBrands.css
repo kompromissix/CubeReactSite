@@ -1,0 +1,16 @@
+.krewe{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.krewe > div{
+    width: 100%;
+    height: 400px;
+}
+.krewe p{
+    font-size: 238px;
+    color: #FFBCBC;
+    text-align: center;
+}

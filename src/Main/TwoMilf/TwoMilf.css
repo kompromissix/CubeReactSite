@@ -1,0 +1,30 @@
+.background2{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 720px;
+}
+.background2 > div{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background2-left{
+    background-image: url(./TwoMilf-assets/Rectangle.png);
+}
+.background2-right{
+    background-image: url(./TwoMilf-assets/Rectangle2.png);
+}
+.background2 > div > div {
+    background-color: #FFBCBC;
+    width: 280px;
+    height: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+}

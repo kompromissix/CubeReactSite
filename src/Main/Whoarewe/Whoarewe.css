@@ -1,0 +1,28 @@
+.background8{
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.background8 > div{
+    width: 1003px;
+    height: 519px;
+    display: flex;
+    justify-content: space-between;
+}
+.background8 > div > div{
+    height: 400px;
+    width: 560px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.background8 h3{
+    font-size: 70px;
+    font-weight: bold;
+}
+.background8 p{
+    font-size: 20px;
+    width: 450px;
+}
